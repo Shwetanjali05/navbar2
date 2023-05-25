@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #01449f;
+}
+img, svg {
+    vertical-align: middle;
+    width: 200px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: white;
+  }
+  .icon{
+    font-size: 25px;
+    padding: 20;
+    color: cadetblue;
+  }
